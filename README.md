@@ -1,2 +1,2 @@
-# medical_data_analaysis
+# medical_data_analysis
 Advanced Machine Learning topics
