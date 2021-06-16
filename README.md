@@ -8,7 +8,7 @@ Medical data analysis using Advanced Machine Learning topics particularly:
 ### Set up this project
  You will need: 
 * Python 3.7 or higher
-* 
+
 ## Create a python virtual environment:
 
 ```sh
