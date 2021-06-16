@@ -5,3 +5,6 @@ Medical data analysis using Advanced Machine Learning topics particularly:
 3) Cost Sensitive Learning
 4) Interpretable Learning
 
+
+## Installation
+pip install requirements.txt
