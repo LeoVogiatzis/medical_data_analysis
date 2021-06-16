@@ -17,5 +17,5 @@ source medical_data_analysis_env/bin/activate
 pip install -r requirements.txt
 ```
 
-## Dataset
+## Datasets 
 https://www.kaggle.com/sulianova/cardiovascular-disease-dataset
